@@ -7,16 +7,8 @@ from datetime import datetime, timedelta
 
 # Mapping: Roll Number → Name
 roll_to_name = {
-    "B24001": "Aarushi",
     "B24003": "Aditi",
-    "B24010": "Ayush",
-    "B24014": "Dhaarna",
-    "B24017": "Dravya",
-    "B24019": "Gautam",
-    "B24032": "Nischal",
-    "B24052": "Udit",
-    "B24055": "Yamica",
-    "B24183": "Harshita"
+    "H24034": "Mahima"
 }
 name_to_roll = {v: k for k, v in roll_to_name.items()}
 
